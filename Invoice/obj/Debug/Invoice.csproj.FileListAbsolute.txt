@@ -1,0 +1,10 @@
+C:\Users\Madawa Dilshan\source\repos\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Madawa Dilshan\source\repos\Invoice\bin\Debug\Invoice.exe
+C:\Users\Madawa Dilshan\source\repos\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.csprojAssemblyReference.cache
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.Form1.resources
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.exe
+C:\Users\Madawa Dilshan\source\repos\Invoice\obj\Debug\Invoice.pdb
